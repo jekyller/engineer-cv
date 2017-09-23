@@ -1,0 +1,31 @@
+# -
+#   info: 'help'
+#   description: "email: contact me (I\'d love to hear from you!) \ngithub: see my github page \nlinkedin: see my linkedin page \nproject: learn about my past projects \nworkshop: see my steam workshop projects"
+
+-
+  info: 'project'
+  description: 'A few of my personal projects are \njekyller\nType (project [project_name]) to find out more!'
+
+-
+  info: 'email'
+  description: "I would love to hear from you! You can contact me at fanghuagu@163.com"
+
+-
+  info: 'github'
+  description: "Check out my github at https://github.com/fanghuagu"
+
+-
+  info: 'linkedin'
+  description: "View my LinkedIn at https://www.linkedin.com/in/fanghuagu"
+
+-
+  info: 'project jekyller'
+  description: "We maintained Jekyll to hold fantastic jekyll themes: https://github.com/jekyller"
+
+-
+  info: 'project big_red_app'
+  description: "I maintain an open source Android app for DLTU students, and now I own the repository for it!"
+
+
+
+

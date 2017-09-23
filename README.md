@@ -4,7 +4,7 @@
 
 - Fork the repository
 - Go to settings and set Github Pages source as **master** brancg.
-- Your new site should be ready at https://username.github.io/PanelCV/
+- Your new site should be ready at https://username.github.io/engineer-cv/
 - Check out for more themes: Jekyll Themes
 
 # Author

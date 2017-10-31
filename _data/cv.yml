@@ -6,17 +6,17 @@
   info: 'project'
   description: 'A few of my personal projects are \njekyller\nType (project [project_name]) to find out more!'
 
--
-  info: 'email'
-  description: "I would love to hear from you! You can contact me at fanghuagu@163.com"
+# -
+#   info: 'email'
+#   description: "I would love to hear from you! You can contact me at fanghuagu@163.com"
 
 -
   info: 'github'
-  description: "Check out my github at https://github.com/fanghuagu"
+  description: "Check out my github at https://github.com/nelsonmestevao"
 
 -
   info: 'linkedin'
-  description: "View my LinkedIn at https://www.linkedin.com/in/fanghuagu"
+  description: "View my LinkedIn at https://www.linkedin.com/in/nelsonmestevao"
 
 -
   info: 'project jekyller'

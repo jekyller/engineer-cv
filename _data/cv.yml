@@ -8,23 +8,19 @@
 
 -
   info: 'email'
-  description: "I would love to hear from you! You can contact me at fanghuagu@163.com"
+  description: "I would love to hear from you! You can contact me at info.gurgen@gmail.com"
 
 -
   info: 'github'
-  description: "Check out my github at https://github.com/fanghuagu"
+  description: "Check out my github at https://github.com/rasjonell"
 
 -
   info: 'linkedin'
-  description: "View my LinkedIn at https://www.linkedin.com/in/fanghuagu"
+  description: "View my LinkedIn at https://www.linkedin.com/in/gurgenhayrapetyan/"
 
 -
-  info: 'project jekyller'
-  description: "We maintained Jekyll to hold fantastic jekyll themes: https://github.com/jekyller"
-
--
-  info: 'project big_red_app'
-  description: "I maintain an open source Android app for DLTU students, and now I own the repository for it!"
+  info: 'LocoTech'
+  description: "We created an automated irrigation system with cloud based monitoring features. https://github.com/locotech"
 
 
 
